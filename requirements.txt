@@ -2,4 +2,7 @@ streamlit
 tensorflow
 pandas
 numpy
-sklearn
+sklearn.metrics
+sklearn.preprocessing
+matplotlib.pyplot
+time
